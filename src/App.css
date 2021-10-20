@@ -131,11 +131,11 @@ input:focus {
   .favourite__icon {
     position: absolute;
     top: 5vh;
-    left: 320px;
+    left: 250px;
   }
   .more__btn {
     top: 15vh;
-    left: 300px;
+    left: 240px;
   }
   .more__container {
     display: flex;
